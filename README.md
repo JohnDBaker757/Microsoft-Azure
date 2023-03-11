@@ -22,8 +22,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Step 1 - Installed Active Directory
 - Step 2 - Configured Active Directory
-- Step 3
-- Step 4
+- Step 3 - Adding Users to Active Cirectory
 
 <h2>Deployment and Configuration Steps</h2>
 
